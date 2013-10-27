@@ -23,7 +23,7 @@
 	    </section>
     </div>
     <hr>
-    <footer class="span4">
+    <footer class="span5">
     	<a>Impressum</a>
     </footer>
     
